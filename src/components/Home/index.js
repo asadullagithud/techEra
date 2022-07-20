@@ -100,7 +100,6 @@ class Home extends Component {
     return (
       <div>
         <Navbar />
-        <h1>sirisha</h1>
         {this.renderAllProducts()}
       </div>
     )
